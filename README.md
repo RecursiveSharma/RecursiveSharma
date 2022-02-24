@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RecursiveSharma
+- 👋 Hi, I’m Shivam Sharma
 - 👀 I’m interested in Exploring | Learning | Travelling
-- 🌱 I’m currently learning Data structure & Algorithms
+- 🌱 I’m currently Making Data structure & Algorithms Sereies on Youtube
 - 💞️ I’m looking to collaborate on Youtube Tech Content
 - 📫 How to reach me ...
 
